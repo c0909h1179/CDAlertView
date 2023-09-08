@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+import UIKit
 internal class CDAlertHeaderView: UIView {
 
     // MARK: Properties
