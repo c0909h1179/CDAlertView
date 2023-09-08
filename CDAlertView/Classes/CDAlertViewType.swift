@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+import UIKit
 public enum CDAlertViewType
 {
     case error, warning, success, notification, alarm, noImage, custom(image: UIImage)
