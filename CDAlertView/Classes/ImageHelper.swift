@@ -7,7 +7,7 @@
 //
 
 import Foundation
-
+import UIKit
 class ImageHelper
 {
     class func loadImage(name: String?) -> UIImage? {
